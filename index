@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecionando...</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>
+    setTimeout(function() {
+      window.location.href = "https://ev.braip.com/ref?pv=proxxnde&af=afivpn7jme";
+    }, 2000);
+  </script>
+</head>
+<body style="font-family: sans-serif; text-align: center; padding: 50px;">
+  <h1>🔒 Redirecionando para a oferta exclusiva...</h1>
+  <p>Se o link não abrir automaticamente, clique no botão abaixo:</p>
+  <a href="https://ev.braip.com/ref?pv=proxxnde&af=afivpn7jme" style="padding: 12px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 8px;">Acessar Oferta</a>
+  <p style="margin-top: 30px;">⚠️ Se estiver no Instagram ou Facebook, toque nos 3 pontinhos e selecione <strong>"Abrir no navegador"</strong> para garantir sua comissão.</p>
+</body>
+</html>
