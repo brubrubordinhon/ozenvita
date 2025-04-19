@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecionando...</title>
+  <script>
+    setTimeout(function() {
+      window.location.href = "https://ev.braip.com/ref?pv=proxxnde&af=afivpn7jme";
+    }, 2000);
+  </script>
+</head>
+<body>
+  <h2>👋 Estamos te redirecionando para uma oferta exclusiva!</h2>
+  <p>Se o link não abrir, <strong>clique no botão abaixo</strong> e selecione “Abrir no navegador (Chrome/Safari)”.</p>
+  <a href="https://ev.braip.com/ref?pv=proxxnde&af=afivpn7jme" style="font-size: 20px; background-color: #00c853; color: white; padding: 10px 20px; text-decoration: none; border-radius: 8px;">ACESSAR OFERTA</a>
+</body>
+</html>
